@@ -1,4 +1,4 @@
-# Melanoma Skin Cancer Identification
+# Skin Cancer Melanoma Identification
 
 ## Overview:
 Skin cancer is the most prevalent type of cancer. Melanoma, specifically, is responsible for 75% of skin cancer deaths, despite being the least common skin cancer. As with other cancers, early and accurate detection—potentially aided by data science—can make treatment more effective. Melanoma is a deadly disease, but if caught early, most melanomas can be cured with minor surgery. Thus, Better detection of melanoma has the opportunity to positively impact millions of people. 
